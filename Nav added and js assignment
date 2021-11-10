@@ -57,11 +57,28 @@
 
         Ex 2) Add a logo into the navigation bar (can be any image)
         Ex 3) Add a Jumbotron section with the name and the claim of the tour operator agency
-        Ex 4) Implement the "Deal of the Week" section. In this section you'll display 4 destinations.
+
+<div class="raw"> 
+
+<div class="jumbotron">
+  <h1 class="display-4">Hello, world!</h1>
+  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <hr class="my-4">
+  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+</div>
+
+</div>      
+  Ex 4) Implement the "Deal of the Week" section. In this section you'll display 4 destinations.
          In this section you should have:
             - 4 destinations per row when the screen is very large
             - 3 destinations per row when you are on a tablet (or a smaller window)
             - 2 destinations per row when you are on a small screen
+
+<h2>Deal of the week</h2>
+<div class="raw" >
+
+</div>
 
         Ex 5) Implement the "Welcome Summer" section. In this section you'll propose 6 destinations to your user
             In this section you should have:
